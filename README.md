@@ -20,7 +20,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minerswin&repo=Scrcpy-Desktop&theme=radical)](https://github.com/MinersWin/Scrcpy-Desktop) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minerswin&repo=Ninite&theme=radical)](https://github.com/MinersWin/Ninite) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Geek-Freaks&repo=Tuning-Pack-Downloader&theme=radical)](https://github.com/The-Geek-Freaks/Tuning-Pack-Downloader) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinersWin&repo=LazyWinAdmin-V.2&theme=radical)](https://github.com/MinersWin/LazyWinAdmin-V.2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinersWin&repo=Personal-Homepage&theme=radical)](https://github.com/MinersWin/Personal-Homepage)
 
 # 📊 My Stats
 
