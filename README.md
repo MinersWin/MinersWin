@@ -8,8 +8,6 @@
 [![Discord Invite](https://img.shields.io/discord/397127284114325504?color=4A55CC&label=Discord&logo=discord&style=for-the-badge)](https://tgf.click/discord)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/minerswin?color=BF4B8A&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/minerswin)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dminerswin%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/minerswin)
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/thegeekfreaks?style=social)
-
 
 # 🧑‍💻 My open source repos
 
