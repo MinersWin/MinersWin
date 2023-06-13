@@ -4,9 +4,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/minerswin?logo=GitHub&style=for-the-badge)](https://github.com/minerswin)
 [![GitHub Stars](https://img.shields.io/github/stars/minerswin?logo=github&style=for-the-badge)](https://github.com/minerswin)
 ![GitHub All Releases](https://img.shields.io/github/downloads/minerswin/tgf-tuning-pack-4.0/total?label=TuningPack%20Downloads&style=for-the-badge)
- [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPPWWWw5nkex2LbXJl6NZdA?logo=youtube&logoColor=E05D44&style=for-the-badge)](https://www.youtube.com/c/nerdscave?sub_confirmation=1) 
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPPWWWw5nkex2LbXJl6NZdA?logo=youtube&logoColor=E05D44&style=for-the-badge)](https://www.youtube.com/c/nerdscave?sub_confirmation=1) 
 [![Discord Invite](https://img.shields.io/discord/397127284114325504?color=4A55CC&label=Discord&logo=discord&style=for-the-badge)](https://tgf.click/discord)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/minerswin?color=BF4B8A&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/minerswin)
 
 # 🧑‍💻 My open source repos
 
