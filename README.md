@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 ![Hero image](https://raw.githubusercontent.com/MinersWin/MinersWin/master/github.jpg)
 
 [![GitHub followers](https://img.shields.io/github/followers/minerswin?logo=GitHub&style=for-the-badge)](https://github.com/minerswin)
