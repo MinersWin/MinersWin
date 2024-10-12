@@ -7,6 +7,29 @@
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPPWWWw5nkex2LbXJl6NZdA?logo=youtube&logoColor=E05D44&style=for-the-badge)](https://www.youtube.com/c/nerdscave?sub_confirmation=1) 
 [![Discord Invite](https://img.shields.io/discord/397127284114325504?color=4A55CC&label=Discord&logo=discord&style=for-the-badge)](https://tgf.click/discord)
 
+---
+
+# 🌐 Do you need Hosting?
+
+## 🚀 My primary Hosting Company - **Nerdscave Hosting**
+Looking for high-performance hosting solutions in the heart of Europe? Nerdscave Hosting offers **KVM VPS Servers**, **Dedicated Physical Servers**, **Webspaces**, **Domains**, and **Managed Services** – all located in **Frankfurt, Germany** 🇩🇪.
+
+🌐 Visit Nerdscave Hosting:
+- [🇬🇧 English](https://nerdscave-hosting.com)
+- [🇩🇪 Deutsch](https://nerdscave-hosting.de)
+
+## 💰 My Budget Hosting Option - **Servermanagementpanel**
+On a budget but still want reliable hosting? Check out our services in **Eygelshoven, Netherlands** 🇳🇱, close to the German border near Aachen. Ideal for affordable hosting needs!
+
+🌐 Visit Servermanagementpanel:
+- [🇬🇧 English](https://servermanagementpanel.com)
+- [🇩🇪 Deutsch](https://servermanagementpanel.de)
+
+### 🌍 Find the perfect hosting solution for you today! 
+Whether you’re looking for premium or budget hosting, we’ve got you covered!
+
+--- 
+
 # 🧑‍💻 My open source repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minerswin&repo=TGF-Tuning-Pack-4.0&theme=radical)](https://github.com/MinersWin/TGF-Tuning-Pack-4.0) 
